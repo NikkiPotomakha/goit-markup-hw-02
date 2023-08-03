@@ -106,6 +106,9 @@ body {
   line-height: 1.5;
   letter-spacing: 0.02em;
 }
+.link {
+  text-decoration: none;
+}
 .nav-menu:hover,
 .nav-menu:focus {
   color: #404ffb;
