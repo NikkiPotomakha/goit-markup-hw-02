@@ -113,7 +113,7 @@ body {
 .nav-menu:focus {
   color: #404ffb;
 }
-.add {
+.address {
   font-style: normal;
   text-decoration: none;
 }
@@ -214,10 +214,10 @@ body {
   line-height: 1.5;
   letter-spacing: 0.32px;
 }
-.iqns-list {
+.advantages-list {
   list-style: none;
 }
-.list {
+.iqns-list {
   list-style: none;
 }
 .link {
