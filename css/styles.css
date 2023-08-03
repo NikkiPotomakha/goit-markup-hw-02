@@ -257,6 +257,8 @@ body {
 .dark-bg {
   background-color: var(--navy-blue);
 }
+
+
 :root {
   --white: #ffffff;
   --milk: #f4f4fd;
