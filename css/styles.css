@@ -44,27 +44,6 @@ body {
   text-transform: uppercase;
   text-decoration: none;
 }
-.web_logo {
-  color: #4d5ae5;
-  font-family: "Raleway", sans-serif;
-  font-size: 18px;
-  font-style: normal;
-  font-weight: 800;
-  line-height: 1.17;
-  letter-spacing: 0.03em;
-  text-transform: uppercase;
-  text-decoration: none;
-}
-.studio_logo {
-  color: var(--navy-blue);
-  font-family: "Raleway", sans-serif;
-  font-size: 18px;
-  font-weight: 800;
-  font-style: normal;
-  line-height: 1.16;
-  letter-spacing: 0.03em;
-  text-transform: uppercase;
-}
 .link-list {
   color: #2e2f42;
   font-family: "Roboto", sans-serif;
@@ -72,7 +51,7 @@ body {
   font-style: normal;
   font-weight: 500;
   line-height: 1.5;
-  letter-spacing: 0.03em;
+  letter-spacing: 0.02em;
 }
 .link-list:hover,
 .link-list:focus {
