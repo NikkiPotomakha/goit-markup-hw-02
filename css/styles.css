@@ -55,7 +55,7 @@ body {
 }
 .link-list:hover,
 .link-list:focus {
-  color: #404ffb;
+  color: #404bbf;
 }
 .contact-link {
   color: #434455;
@@ -68,7 +68,7 @@ body {
 }
 .contact-link:hover,
 .contact-link:focus {
-  color: #404ffb;
+  color: #404bbf;
 }
 .button-portfolio {
   color: var(--ocean);
