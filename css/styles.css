@@ -53,6 +53,9 @@ body {
   line-height: 1.5;
   letter-spacing: 0.02em;
 }
+.link-list {
+  text-decoration: none;
+}
 .link-list:hover,
 .link-list:focus {
   color: #404bbf;
