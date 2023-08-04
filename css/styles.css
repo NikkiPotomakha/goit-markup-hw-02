@@ -207,6 +207,9 @@ tech {
   line-height: 1.2;
   letter-spacing: 0.4px;
 }
+.team-card {
+  background-color: #ffffff;
+}
 .team-card-1 {
   color: var(--slate);
   text-align: center;
