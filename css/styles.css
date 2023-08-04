@@ -117,6 +117,21 @@ body {
   font-style: normal;
   text-decoration: none;
 }
+.contact-list {
+  font-family: "Roboto", sans-serif;
+  color: var(--slate);
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 1.5;
+  letter-spacing: 0.02em;
+  text-decoration: none;
+}
+.contact-list:hover,
+.contact-list:focus {
+  color: #404bbf;
+}
+
 .reference-hdr {
   color: #434455;
   font-size: 16px;
