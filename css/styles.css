@@ -111,15 +111,11 @@ body {
 }
 .nav-menu:hover,
 .nav-menu:focus {
-  color: #404ffb;
+  color: #404bbf;
 }
 .address {
   font-style: normal;
   text-decoration: none;
-}
-.link-list:hover,
-.link-list:focus {
-  color: #404bbf;
 }
 .contact-list {
   font-family: "Roboto", sans-serif;
