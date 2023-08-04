@@ -259,6 +259,7 @@ body {
   border: 1px solid #e7e9fd;
   background-color: #f4f4fd;
   color: var(--iris);
+  font-family: "Roboto", sans-serif;
   font-size: 16px;
   font-style: normal;
   font-weight: 500;
