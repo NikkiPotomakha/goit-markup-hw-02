@@ -183,6 +183,9 @@ body {
 tech {
   list-style: none;
 }
+.feature {
+  background-color: #ffffff;
+}
 .fond_f {
   background-color: #f4f4fd;
 }
