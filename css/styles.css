@@ -257,15 +257,15 @@ body {
   background-color: #2e2f42;
 }
 .filter-btn {
-  border: 1px solid #e7e9fd;
-  background-color: #f4f4fd;
-  color: var(--iris);
   font-family: "Roboto", sans-serif;
-  font-size: 16px;
-  font-style: normal;
   font-weight: 500;
+  font-size: 16px;
   line-height: 1.5;
   letter-spacing: 0.04em;
+  color: var(--iris);
+  background-color: var(--cloud);
+  border: none;
+  padding: 10px 20px;
   cursor: pointer;
 }
 .filter-btn:hover,
