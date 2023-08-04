@@ -183,9 +183,6 @@ body {
 tech {
   list-style: none;
 }
-.feature {
-  background-color: #ffffff;
-}
 .fond_f {
   background-color: #f4f4fd;
 }
@@ -198,7 +195,7 @@ tech {
   letter-spacing: 0.02em;
   text-transform: capitalize;
 }
-.work {
+.feature {
   background-color: #ffffff;
 }
 .team-card {
