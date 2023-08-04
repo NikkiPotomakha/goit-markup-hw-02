@@ -102,6 +102,10 @@ body {
   line-height: 1.5;
   letter-spacing: 0.03em;
 }
+.portfolio {
+  text-decoration: none;
+  list-style: none;
+}
 .nav-menu {
   font-family: "Roboto", sans-serif;
   color: var(--navy-blue);
