@@ -117,7 +117,10 @@ body {
   font-style: normal;
   text-decoration: none;
 }
-
+.link-list:hover,
+.link-list:focus {
+  color: #404bbf;
+}
 .contact-list {
   font-family: "Roboto", sans-serif;
   color: var(--slate);
