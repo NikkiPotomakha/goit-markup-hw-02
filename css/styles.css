@@ -207,9 +207,6 @@ tech {
   line-height: 1.2;
   letter-spacing: 0.4px;
 }
-.team-card {
-  background-color: #ffffff;
-}
 .team_pic {
   color: var(--slate);
   text-align: center;
@@ -219,7 +216,6 @@ tech {
   font-weight: 400;
   line-height: 1.5;
   letter-spacing: 0.32px;
-  background-color: #ffffff;
 }
 .advantages-list {
   list-style: none;
