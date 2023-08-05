@@ -165,6 +165,16 @@
 .fond_f {
   background-color: #f4f4fd;
 }
+.studio-link {
+  color: #f4f4fd;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 800;
+  line-height: 1.17;
+  letter-spacing: 0.03em;
+  text-transform: uppercase;
+  text-decoration: none;
+}
 .text-footer {
   color: var(--cloud);
   font-family: "Roboto", sans-serif;
@@ -176,16 +186,6 @@
 }
 .text-footer {
   background-color: #2e2f42;
-}
-.studio-link {
-  color: #f4f4fd;
-  font-size: 18px;
-  font-style: normal;
-  font-weight: 800;
-  line-height: 1.17;
-  letter-spacing: 0.03em;
-  text-transform: uppercase;
-  text-decoration: none;
 }
 .ftr {
   background-color: #2e2f42;
