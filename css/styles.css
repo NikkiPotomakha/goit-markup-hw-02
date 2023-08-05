@@ -72,15 +72,49 @@
 .contact-list:focus {
   color: #404bbf;
 }
-.button-portfolio {
-  color: var(--ocean);
-  text-align: center;
+.button {
+  color: #ffffff;
   font-family: "Roboto", sans-serif;
+  font-weight: 500;
+  font-size: 16px;
+  font-style: normal;
+  line-height: 1.5;
+  letter-spacing: 0.04em;
+  background-color: #4d5ae5;
+  cursor: pointer;
+}
+.button:hover,
+.button:focus {
+  background-color: #404bbf;
+}
+.filter-btn {
+  font-family: "Roboto", sans-serif;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 1.5;
+  letter-spacing: 0.04em;
+  color: var(--iris);
+  background-color: var(--cloud);
+  cursor: pointer;
+}
+.filter-btn:hover,
+.filter-btn:focus {
+  background-color: #404bbf;
+  color: #ffffff;
   font-size: 16px;
   font-style: normal;
   font-weight: 500;
   line-height: 1.5;
-  letter-spacing: 0.06em;
+  letter-spacing: 0.04em;
+}
+.filter-item {
+  color: var(--iris);
+  text-align: center;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: 1.5;
+  letter-spacing: 0.04em;
 }
 .tittle-portfolio {
   color: var(--navy-blue);
@@ -129,23 +163,8 @@
 .scn_one {
   background-color: #2e2f42;
 }
-.button {
-  color: #ffffff;
-  font-family: "Roboto", sans-serif;
-  font-weight: 500;
-  font-size: 16px;
-  font-style: normal;
-  line-height: 1.5;
-  letter-spacing: 0.04em;
-  background-color: #4d5ae5;
-  cursor: pointer;
-}
 .section-1-tittle {
   background-color: #2e2f42;
-}
-.button:hover,
-.button:focus {
-  background-color: #404bbf;
 }
 .sub-hdr {
   color: #2e2f42;
@@ -217,35 +236,6 @@
 }
 .text-footer {
   background-color: #2e2f42;
-}
-.filter-btn {
-  font-family: "Roboto", sans-serif;
-  font-weight: 500;
-  font-size: 16px;
-  line-height: 1.5;
-  letter-spacing: 0.04em;
-  color: var(--iris);
-  background-color: var(--cloud);
-  cursor: pointer;
-}
-.filter-btn:hover,
-.filter-btn:focus {
-  background-color: #404bbf;
-  color: #ffffff;
-  font-size: 16px;
-  font-style: normal;
-  font-weight: 500;
-  line-height: 1.5;
-  letter-spacing: 0.04em;
-}
-.filter-item {
-  color: var(--iris);
-  text-align: center;
-  font-size: 16px;
-  font-style: normal;
-  font-weight: 500;
-  line-height: 1.5;
-  letter-spacing: 0.04em;
 }
 .footer {
   color: #4d5ae5;
