@@ -162,6 +162,9 @@
   letter-spacing: 0.02em;
   text-transform: capitalize;
 }
+.fon {
+  background-color: #ffffff;
+}
 .fond_f {
   background-color: #f4f4fd;
 }
