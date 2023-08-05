@@ -7,10 +7,6 @@
   --ocean: #404bbf;
   --cornflower: #e7e9fc;
 }
-* {
-  font-family: "Roboto", sans-serif;
-  font-family: "Raleway", sans-serif;
-}
 body {
   font-family: "Roboto", sans-serif;
   font-style: normal;
