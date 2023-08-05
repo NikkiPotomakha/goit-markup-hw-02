@@ -260,8 +260,6 @@ body {
   letter-spacing: 0.04em;
   color: var(--iris);
   background-color: var(--cloud);
-  border: none;
-  padding: 10px 20px;
   cursor: pointer;
 }
 .filter-btn:hover,
