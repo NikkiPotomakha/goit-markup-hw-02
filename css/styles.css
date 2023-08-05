@@ -87,6 +87,10 @@
 .button:focus {
   background-color: #404bbf;
 }
+.btn {
+  list-style: none;
+  text-decoration: none;
+}
 .filter-btn {
   font-family: "Roboto", sans-serif;
   font-weight: 500;
