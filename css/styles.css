@@ -136,24 +136,9 @@
   line-height: 1.5;
   letter-spacing: 0.02em;
 }
-.section-1-tittle {
-  background-color: #2e2f42;
-}
-.portfolio {
-  text-decoration: none;
-  list-style: none;
-}
 .address {
   font-style: normal;
   text-decoration: none;
-}
-.reference-hdr {
-  color: #434455;
-  font-size: 16px;
-  font-style: normal;
-  font-weight: 400;
-  line-height: 1.5;
-  letter-spacing: 0.02em;
 }
 .ttl_one {
   font-family: "Roboto", sans-serif;
@@ -180,9 +165,6 @@
 .fond_f {
   background-color: #f4f4fd;
 }
-.iqns-list {
-  list-style: none;
-}
 .text-footer {
   color: var(--cloud);
   font-family: "Roboto", sans-serif;
@@ -204,12 +186,6 @@
   letter-spacing: 0.03em;
   text-transform: uppercase;
   text-decoration: none;
-}
-.light-bg {
-  background-color: var(--cloud);
-}
-.list-bg {
-  background-color: #ffffff;
 }
 .ftr {
   background-color: #2e2f42;
