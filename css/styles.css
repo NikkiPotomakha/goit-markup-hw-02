@@ -73,10 +73,6 @@
 .contact-list:focus {
   color: #404bbf;
 }
-.address {
-  font-style: normal;
-  text-decoration: none;
-}
 .button-portfolio {
   color: var(--ocean);
   text-align: center;
@@ -108,6 +104,10 @@
 .portfolio {
   text-decoration: none;
   list-style: none;
+}
+.address {
+  font-style: normal;
+  text-decoration: none;
 }
 .reference-hdr {
   color: #434455;
