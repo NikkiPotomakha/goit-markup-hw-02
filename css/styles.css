@@ -9,8 +9,6 @@
 }
 .body {
   font-family: "Roboto", sans-serif;
-  font-style: normal;
-  background-color: var(--white);
   color: #434455;
 }
 .link {
