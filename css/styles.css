@@ -125,6 +125,9 @@
 .list {
   list-style: none;
 }
+.design {
+  text-decoration: none;
+}
 .ttl {
   color: var(--navy-blue);
   font-size: 20px;
@@ -141,6 +144,15 @@
   font-weight: 400;
   line-height: 1.5;
   letter-spacing: 0.02em;
+}
+.design > .design-list-img {
+  border: 1px solid;
+}
+.design {
+  text-decoration: none;
+}
+.design-list {
+  list-style: none;
 }
 .address {
   font-style: normal;
