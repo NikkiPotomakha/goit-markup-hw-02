@@ -145,9 +145,6 @@
   line-height: 1.5;
   letter-spacing: 0.02em;
 }
-.list .li:first-child .a.link {
-  text-decoration: none;
-}
 .address {
   font-style: normal;
   text-decoration: none;
