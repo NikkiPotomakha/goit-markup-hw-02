@@ -145,14 +145,14 @@
   line-height: 1.5;
   letter-spacing: 0.02em;
 }
-.design > .design-list-img {
-  border: 1px solid;
-}
 .design {
   text-decoration: none;
 }
 .design-list {
   list-style: none;
+}
+.design > .design-list-img {
+  border: 1px solid;
 }
 .address {
   font-style: normal;
