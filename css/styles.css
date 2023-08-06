@@ -145,12 +145,6 @@
   line-height: 1.5;
   letter-spacing: 0.02em;
 }
-.design {
-  text-decoration: none;
-}
-.design-list {
-  list-style: none;
-}
 .design > .design-list-img {
   border: 1px solid;
 }
