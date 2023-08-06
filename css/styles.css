@@ -122,9 +122,6 @@
 .list {
   list-style: none;
 }
-.design {
-  text-decoration: none;
-}
 .ttl {
   color: var(--navy-blue);
   font-size: 20px;
