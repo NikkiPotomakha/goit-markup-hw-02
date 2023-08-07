@@ -69,9 +69,6 @@
 .contact-list:focus {
   color: #404bbf;
 }
-.contact-list {
-  text-decoration: none;
-}
 .button {
   color: #ffffff;
   font-family: "Roboto", sans-serif;
